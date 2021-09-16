@@ -1,0 +1,8 @@
+D:\Dokumentumok\Programming\Exe\Projects\sa_ladder\sa_ladder\bin\Debug\sa_ladder.exe
+D:\Dokumentumok\Programming\Exe\Projects\sa_ladder\sa_ladder\bin\Debug\sa_ladder.pdb
+D:\Dokumentumok\Programming\Exe\Projects\sa_ladder\sa_ladder\obj\Debug\ResolveAssemblyReference.cache
+D:\Dokumentumok\Programming\Exe\Projects\sa_ladder\sa_ladder\obj\Debug\sa_ladder.Form1.resources
+D:\Dokumentumok\Programming\Exe\Projects\sa_ladder\sa_ladder\obj\Debug\sa_ladder.Properties.Resources.resources
+D:\Dokumentumok\Programming\Exe\Projects\sa_ladder\sa_ladder\obj\Debug\sa_ladder.csproj.GenerateResource.Cache
+D:\Dokumentumok\Programming\Exe\Projects\sa_ladder\sa_ladder\obj\Debug\sa_ladder.exe
+D:\Dokumentumok\Programming\Exe\Projects\sa_ladder\sa_ladder\obj\Debug\sa_ladder.pdb
